@@ -1,0 +1,8 @@
+python-telegram-bot
+requests
+telethon
+apscheduler
+python-dotenv
+
+
+
